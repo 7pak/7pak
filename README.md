@@ -22,17 +22,16 @@
 
 ### About Me
 
-Software Engineer shipping production mobile and AI products to Google Play and the App Store. I build features end to end — Clean Architecture, offline-first data layers, real-time distributed systems, and multi-agent AI — and own them from stakeholder brief through debugging and store delivery.
+Software Engineer building production mobile and AI products end to end — from stakeholder brief through debugging to store release. I own features rather than tickets, and I care about what a codebase looks like after a year of feature pressure.
 
-Currently working as a **Mobile Engineer** on **Corteksa**: a Flutter enterprise CRM with metadata-driven dynamic business objects, real-time analytics, multi-tenant workspaces, and a multi-channel messaging hub handling **10,000+ messages daily**.
-
-- **Offline-first by default** — SQLite/Drift with a durable outbox for idempotent sends, backoff retries and crash recovery, with optimistic delivery reconciled against WebSocket echoes
-- **Real-time at scale** — three self-reconnecting WebSocket channels across WhatsApp, Instagram, Messenger and TikTok
-- **Multi-agent AI** — streaming rich content blocks (charts, gauges, funnels) over a single event contract, with human-in-the-loop approval gates
-- **Tested and shipped** — 1,500+ automated tests and a CI/CD pipeline publishing to TestFlight and Google Play in one run, at **99.2% crash-free sessions**
-- **Beyond the client** — Java Spring Boot, Python, SQL, REST APIs, Firebase and Supabase
-- B.Sc. Software Engineering, Üsküdar University · GPA 3.56/4.0
-- English (fluent) · Arabic (native) · products localized for EN / AR (RTL) / TR
+- **Architecture** — Clean Architecture, MVVM and BLoC on large codebases, structured so new features stay cheap to add
+- **Offline-first systems** — local persistence with durable outboxes, idempotent writes, backoff retries, crash recovery, and optimistic updates reconciled against the server
+- **Real-time** — WebSocket-driven messaging and live data over channels that reconnect themselves and survive bad networks
+- **AI product work** — multi-agent clients, streaming responses, and human-in-the-loop approval flows
+- **Security and multi-tenancy** — encrypted storage, concurrency-safe token refresh, role-based access control, and hard tenant isolation
+- **Testing and delivery** — unit, widget and integration testing with TDD, and CI/CD that ships both platforms in a single run
+- **Beyond the client** — REST integrations, backend work in Java Spring Boot and Python, Firebase and Supabase
+- **Built for the region** — full RTL and multi-language support as a first-class concern, not a retrofit
 
 ---
 
