@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Abdalla%20Tawfig&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Android%20%C2%B7%20Flutter&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Abdalla%20Tawfig&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Dedicated+Mobile+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Flutter;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=Software+Engineer;I+build+products+end+to+end;Mobile+%C2%B7+Web+%C2%B7+Backend;Clean+architecture%2C+tested%2C+shipped" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,18 +23,20 @@
 
 ### About Me
 
-Dedicated Mobile developer with a passion for continuous improvement and staying abreast of the latest trends and technologies in the field.
+Software engineer who builds products end to end. Mobile is where I go deepest, but I follow the problem wherever it lives — API design, data modelling, web, and release engineering included.
 
-- Building native Android with **Kotlin + Jetpack Compose**, and cross-platform with **Flutter**
-- Currently focused on AI-assisted mobile experiences — voice notes, receipt scanning, smart automation
-- Open to collaboration on mobile projects
+- **Product engineering** — I take features from an empty repo to something on a real device: architecture, state management, offline-first data, auth, CI/CD and store releases
+- **Mobile depth** — native Android with Kotlin and Jetpack Compose, cross-platform with Flutter
+- **Beyond the client** — TypeScript and JavaScript on the web, Java on the JVM, REST APIs and backends with Firebase and Supabase
+- **How I work** — clean architecture, meaningful tests, and readable code matter more to me than any single framework; the stack below is a set of tools, not an identity
+- **Right now** — building AI-assisted product experiences: voice capture, receipt scanning, and smart automation
 
 ---
 
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,firebase,supabase,git,github,figma&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,ts,js,androidstudio,flutter,firebase,supabase,postgres,nodejs,git,github,figma&theme=dark&perline=7" alt="Tech stack" />
 </div>
 
 ---
@@ -42,8 +44,8 @@ Dedicated Mobile developer with a passion for continuous improvement and staying
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=7pak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7pak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="Top languages" />
+  <img src="assets/stats.svg" alt="GitHub stats" />
+  <img src="assets/top-langs.svg" alt="Most used languages" />
 </div>
 
 <div align="center">
@@ -56,16 +58,16 @@ Dedicated Mobile developer with a passion for continuous improvement and staying
 
 <div align="center">
   <a href="https://github.com/7pak/Recallly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7pak&repo=Recallly&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="Recallly" />
+    <img src="assets/repo-Recallly.svg" alt="Recallly" />
   </a>
   <a href="https://github.com/7pak/Autoinvo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7pak&repo=Autoinvo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="Autoinvo" />
+    <img src="assets/repo-Autoinvo.svg" alt="Autoinvo" />
   </a>
   <a href="https://github.com/7pak/LonePaw-PetAdoption">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7pak&repo=LonePaw-PetAdoption&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="LonePaw" />
+    <img src="assets/repo-LonePaw-PetAdoption.svg" alt="LonePaw Pet Adoption" />
   </a>
   <a href="https://github.com/7pak/Tasty-Table">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7pak&repo=Tasty-Table&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="Tasty Table" />
+    <img src="assets/repo-Tasty-Table.svg" alt="Tasty Table" />
   </a>
 </div>
 
@@ -88,3 +90,9 @@ Dedicated Mobile developer with a passion for continuous improvement and staying
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=120&section=footer" width="100%"/>
 </div>
+
+<!--
+  The stats, language and project cards in assets/ are generated by
+  scripts/generate-cards.mjs and refreshed every 12h by .github/workflows/cards.yml.
+  They are rendered in this repo on purpose — no third-party card service to go down.
+-->
