@@ -39,7 +39,7 @@ Software Engineer building production mobile and AI products end to end — from
 
 | Product | What it is | Stack |
 | :-- | :-- | :-- |
-| **Corteksa** | Enterprise CRM — dynamic business objects, multi-channel messaging, multi-agent AI, multi-tenant workspaces | Flutter · Drift · WebSockets |
+| **Corteksa** | Enterprise CRM — dynamic business objects, multi-channel messaging, multi-agent AI, multi-tenant workspaces | Flutter · WebSockets · Offline-first |
 | **Mwaqi3** | Arabic-first business directory for the Kuwait market — story-first home, offers CRUD, Google Maps, custom design system | Flutter · Firebase |
 | **[Recallly](https://github.com/7pak/Recallly)** | Voice-to-CRM — real-time transcription, AI field extraction, offline speech recognition, role-based modes, PDF export | Kotlin · Compose |
 
