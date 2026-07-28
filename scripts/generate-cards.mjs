@@ -166,6 +166,7 @@ async function collect() {
         contributionsCollection {
           totalCommitContributions
           restrictedContributionsCount
+          contributionCalendar { totalContributions }
         }
         repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE]) { totalCount }
       }
@@ -182,6 +183,7 @@ async function collect() {
     forks,
     bytes,
     commits: c ? c.totalCommitContributions + c.restrictedContributionsCount : null,
+    contributions: c?.contributionCalendar?.totalContributions ?? null,
     prs: gql?.user?.pullRequests?.totalCount ?? null,
     issues: gql?.user?.issues?.totalCount ?? null,
     contributedTo: gql?.user?.repositoriesContributedTo?.totalCount ?? null,
@@ -192,15 +194,16 @@ async function collect() {
 // ---------------------------------------------------------------- cards
 
 function statsCard(d) {
-  const rows = [
-    ['Total Stars Earned', d.stars],
-    ['Total Forks', d.forks],
-    ['Public Repositories', d.repoCount],
-    ['Followers', d.followers],
-  ]
-  if (d.commits !== null) rows.splice(1, 0, ['Commits (last year)', d.commits])
-  if (d.prs !== null) rows.push(['Pull Requests', d.prs])
-  if (d.issues !== null) rows.push(['Issues Opened', d.issues])
+  // A row showing 0 reads worse than no row at all, so anything that can
+  // legitimately be empty is only rendered once it has a value.
+  const rows = [['Public Repositories', d.repoCount]]
+  if (d.contributions !== null) rows.unshift(['Contributions (last year)', d.contributions])
+  if (d.stars > 0) rows.push(['Total Stars Earned', d.stars])
+  if (d.forks > 0) rows.push(['Total Forks', d.forks])
+  if (d.followers > 0) rows.push(['Followers', d.followers])
+  if (d.prs) rows.push(['Pull Requests', d.prs])
+  if (d.issues) rows.push(['Issues Opened', d.issues])
+  if (d.contributedTo) rows.push(['Contributed To', d.contributedTo])
 
   const w = 420
   const h = 70 + rows.length * 26
