@@ -12,12 +12,12 @@
   <g class="in" style="animation-delay:150ms">
     <circle cx="30" cy="62" r="3" fill="#7C3AED"/>
     <text x="44" y="66" class="k">Contributions (last year)</text>
-    <text x="395" y="66" class="v" text-anchor="end">31</text>
+    <text x="395" y="66" class="v" text-anchor="end">40</text>
   </g>
   <g class="in" style="animation-delay:220ms">
     <circle cx="30" cy="88" r="3" fill="#7C3AED"/>
     <text x="44" y="92" class="k">Public Repositories</text>
-    <text x="395" y="92" class="v" text-anchor="end">18</text>
+    <text x="395" y="92" class="v" text-anchor="end">19</text>
   </g>
   <g class="in" style="animation-delay:290ms">
     <circle cx="30" cy="114" r="3" fill="#7C3AED"/>
