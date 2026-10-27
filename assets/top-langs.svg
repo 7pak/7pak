@@ -12,27 +12,27 @@
   <clipPath id="round"><rect x="25" y="56" width="370" height="10" rx="5"/></clipPath>
   <g clip-path="url(#round)">
     <rect x="25" y="56" width="370" height="10" fill="#21262D"/>
-    <rect x="25.0" y="56" width="224.6" height="10" fill="#A97BFF"/>
-    <rect x="249.6" y="56" width="61.0" height="10" fill="#00B4AB"/>
-    <rect x="310.6" y="56" width="31.8" height="10" fill="#3572A5"/>
-    <rect x="342.4" y="56" width="13.6" height="10" fill="#3178c6"/>
-    <rect x="356.0" y="56" width="12.9" height="10" fill="#f1e05a"/>
-    <rect x="368.9" y="56" width="10.8" height="10" fill="#e34c26"/>
+    <rect x="25.0" y="56" width="223.3" height="10" fill="#A97BFF"/>
+    <rect x="248.3" y="56" width="60.6" height="10" fill="#00B4AB"/>
+    <rect x="309.0" y="56" width="33.7" height="10" fill="#3572A5"/>
+    <rect x="342.7" y="56" width="13.6" height="10" fill="#3178c6"/>
+    <rect x="356.3" y="56" width="12.8" height="10" fill="#f1e05a"/>
+    <rect x="369.0" y="56" width="10.7" height="10" fill="#e34c26"/>
   </g>
   <g class="in" style="animation-delay:200ms">
     <circle cx="30" cy="98" r="5" fill="#A97BFF"/>
     <text x="43" y="102" class="k">Kotlin</text>
-    <text x="180" y="102" class="s" text-anchor="end">60.7%</text>
+    <text x="180" y="102" class="s" text-anchor="end">60.4%</text>
   </g>
   <g class="in" style="animation-delay:270ms">
     <circle cx="215" cy="98" r="5" fill="#00B4AB"/>
     <text x="228" y="102" class="k">Dart</text>
-    <text x="365" y="102" class="s" text-anchor="end">16.5%</text>
+    <text x="365" y="102" class="s" text-anchor="end">16.4%</text>
   </g>
   <g class="in" style="animation-delay:340ms">
     <circle cx="30" cy="122" r="5" fill="#3572A5"/>
     <text x="43" y="126" class="k">Python</text>
-    <text x="180" y="126" class="s" text-anchor="end">8.6%</text>
+    <text x="180" y="126" class="s" text-anchor="end">9.1%</text>
   </g>
   <g class="in" style="animation-delay:410ms">
     <circle cx="215" cy="122" r="5" fill="#3178c6"/>
