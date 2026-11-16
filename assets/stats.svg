@@ -12,7 +12,7 @@
   <g class="in" style="animation-delay:150ms">
     <circle cx="30" cy="62" r="3" fill="#7C3AED"/>
     <text x="44" y="66" class="k">Contributions (last year)</text>
-    <text x="395" y="66" class="v" text-anchor="end">40</text>
+    <text x="395" y="66" class="v" text-anchor="end">41</text>
   </g>
   <g class="in" style="animation-delay:220ms">
     <circle cx="30" cy="88" r="3" fill="#7C3AED"/>
@@ -27,6 +27,6 @@
   <g class="in" style="animation-delay:360ms">
     <circle cx="30" cy="140" r="3" fill="#7C3AED"/>
     <text x="44" y="144" class="k">Followers</text>
-    <text x="395" y="144" class="v" text-anchor="end">3</text>
+    <text x="395" y="144" class="v" text-anchor="end">4</text>
   </g>
 </svg>
