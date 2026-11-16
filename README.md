@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=820&lines=Mobile+%26+AI+Engineer;Flutter+%C2%B7+Native+Kotlin+%26+Swift;AI+agents%2C+voice+and+LLM+apps+in+production;43+releases+shipped+to+both+stores" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=820&lines=Mobile+%26+AI+Engineer;Flutter+%C2%B7+Native+Kotlin+%26+Swift;AI+agents%2C+voice+and+LLM+apps+in+production;100%2B+releases+shipped+to+both+stores" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Releases_shipped-43-7C3AED?style=flat-square" alt="43 releases" />
+  <img src="https://img.shields.io/badge/Releases_shipped-100+-7C3AED?style=flat-square" alt="100+ releases" />
   <img src="https://img.shields.io/badge/Automated_tests-4,000+-7C3AED?style=flat-square" alt="4,000+ tests" />
   <img src="https://img.shields.io/badge/Apps_on_Google_Play-4-7C3AED?style=flat-square" alt="4 apps on Google Play" />
   <img src="https://img.shields.io/badge/Open_to-Mobile_%C2%B7_AI_%C2%B7_Solutions_roles-1e3a8a?style=flat-square" alt="Open to roles" />
