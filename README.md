@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Abdalla%20Tawfig&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20AI%20Engineer%20%C2%B7%20UAE&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Abdalla%20Tawfig&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20and%20AI%20Engineer%20%C2%B7%20UAE&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Mobile+%26+AI+Engineer;Flutter+%C2%B7+Native+Kotlin+%26+Swift;AI+agents%2C+voice+and+LLM+features+in+production;43+releases+shipped+to+both+stores" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=820&lines=Mobile+%26+AI+Engineer;Flutter+%C2%B7+Native+Kotlin+%26+Swift;AI+agents%2C+voice+and+LLM+apps+in+production;43+releases+shipped+to+both+stores" alt="Typing SVG" />
 </div>
 
 <div align="center">
