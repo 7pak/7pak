@@ -16,7 +16,7 @@ const TOKEN = process.env.GITHUB_TOKEN || ''
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const OUT = join(ROOT, 'assets')
 
-const FEATURED = ['Recallly', 'Autoinvo', 'LonePaw-PetAdoption', 'Tasty-Table']
+const FEATURED = ['job-alert-bot', 'Recallly', 'Autoinvo', 'LonePaw-PetAdoption']
 
 const THEME = {
   bg: '#0D1117',
